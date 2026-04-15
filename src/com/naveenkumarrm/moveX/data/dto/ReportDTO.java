@@ -1,6 +1,6 @@
 package com.naveenkumarrm.moveX.data.dto;
 
-public class Report {
+public class ReportDTO {
 
     private Long id;
     private int totalShipments;

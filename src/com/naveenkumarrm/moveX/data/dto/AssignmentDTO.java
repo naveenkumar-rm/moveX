@@ -1,6 +1,6 @@
 package com.naveenkumarrm.moveX.data.dto;
 
-public class Assignment {
+public class AssignmentDTO {
 
     private Long id;
     private Long shipmentId;
