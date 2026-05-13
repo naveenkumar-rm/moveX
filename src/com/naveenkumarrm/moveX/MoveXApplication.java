@@ -1,4 +1,4 @@
-package com.naveenkumarrm.moveX.feature;
+package com.naveenkumarrm.moveX;
 
 import com.naveenkumarrm.moveX.feature.dashboard.DashboardView;
 import com.naveenkumarrm.moveX.feature.signin.SignInView;
